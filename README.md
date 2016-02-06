@@ -1,2 +1,3 @@
-# labdocs
-A place for lab related documents
+# Coop Lab Documents
+
+See the [Coop Lab Wiki](https://github.com/cooplab/labdocs/wiki).
